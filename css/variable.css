@@ -1,0 +1,12 @@
+:root {
+  --heading1Font: 24px;
+  --paragraph1Font: 18px;
+  --paragraph2Font: 16px;
+  --paragraph3Font: 14px;
+  --backgroundColour: #1c5550;
+  --headerFontColour: #dfd9d9;
+  --asideActiveFontColour: #c3b97f;
+  --asideFontColour: #91b599;
+  --asideBackgroundColour: #00000033;
+  --borderRadius: 4px;
+}
